@@ -1,0 +1,36 @@
+.headings4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Poppins;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 64px;
+  margin-top: 50px;
+}
+.color1{
+    color:royalblue
+}
+.bor1{
+    border-top :2px dotted royalblue;
+    padding-top:50px ;
+}
+.paragraphs7{
+ 
+font-family: Poppins;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+color:#282938;
+margin: 20px 30px;
+}
+.paragraphs8{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+color:#282938;
+margin:0px 50px 50px 30px;
+}
+

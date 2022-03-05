@@ -1,0 +1,44 @@
+.paragraphs13{
+display:flex ;
+justify-content: center;
+align-items: center;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+}
+.paragraphs14{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px;
+width: 35%;
+}
+.disp2{
+display:flex ;
+justify-content: center;
+align-items: center;
+}
+.bg1{
+    background-color: #F4F6FC;
+    border-radius: 20px;
+    margin:20px;
+    padding:20px
+}
+.bg2{
+  
+    background-color:  #1C1E53;
+    color:white;
+    border-radius: 20px;
+    margin:20px;
+    padding:20px
+    
+}
+.button2{
+
+    display:flex;
+    justify-content: center;
+    align-items:center ;
+
+}

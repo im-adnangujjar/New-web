@@ -1,0 +1,59 @@
+.mainContainer1{
+    background-color: #F4F6FC;
+    height: 100vh;
+
+}
+.heading1{
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+color: #282938;
+margin: 50px 16px 16px 50px;
+
+}
+.paragraph1{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+color: #282938;
+margin: 16px 200px 16px 50px;
+}
+.paragraph2{
+font-family: Poppins;
+font-size: 18px;
+font-weight: 500;
+line-height: 32px;
+color: #2405F2;
+margin: 16px 16px 16px 50px;
+}
+.heading2{
+    background-color:#2405F2;
+    color:white;
+    width:50px;
+    border-radius: 5px;
+    background-image:url(../../../public/assets/Mask\ Group.png);
+    background-repeat: no-repeat;
+    margin:50px 0px 16px 0px ;
+}
+.display{
+    display: flex;
+}
+.heading3{
+font-family: Poppins;
+font-size: 32px;
+font-weight: 500;
+line-height: 48px;
+color: #282938;
+margin: 16px 0px;
+}
+.paragraph3{
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+color:#282938;
+
+}

@@ -1,0 +1,26 @@
+.headings2 {
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 32px;
+  margin:100px 100px 0px 106px;
+}
+.paragraphs3{
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px;
+    color: #282938;
+    margin:10px 100px 0px 100px
+
+}
+.paragraphs4{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 28px;
+    color: #282938;
+    margin:30px 100px 0px 100px;
+}

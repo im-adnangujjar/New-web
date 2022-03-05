@@ -1,0 +1,31 @@
+.mainDiv{
+    background-color: #F4F5F5;
+}
+.headings3{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color: #282938;
+margin-top: 30px;
+margin-left:100px ;
+}
+.paragraphs5{
+    font-family: Poppins;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    color: #282938;
+    margin-left:100px
+}
+.paragraphs6{
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+color:#282938;
+margin:0px 100px 80px 100px;
+}

@@ -1,0 +1,36 @@
+.mainContainers{
+    background-color: #1C1E53;
+}
+.paragraphs{
+font-family: Poppins;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+color:white;
+margin: 25px 100px 50px 100px  ;
+}
+.paragraphas1{  
+
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+line-height: 64px;
+color: white;
+margin:100px 100px 0px 100px ;
+}
+.images{
+    margin:100px 100px 40px 100px;
+}
+.backgr{
+    background-color: #FCD980;
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin:100px 100px 0px 100px ;
+}
+.color{
+    color:white;
+    margin-left: 10px;
+}

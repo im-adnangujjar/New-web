@@ -1,0 +1,27 @@
+.mainContainar{
+    background-color: rgba(28, 30, 83, 1);
+    overflow: hidden;
+}
+.heading{
+font-family: Poppins;
+font-size: 54px;
+font-style: normal;
+font-weight: 600;
+line-height: 74px;
+color:white;
+margin:50px 0px 24px 50px;
+padding-left: 0px;
+padding-right: 0px;
+}
+.paragraph{
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 28px;
+color: rgba(255, 255, 255, 1);
+margin:50px 50px 24px 50px ;
+padding-left: 0px;
+padding-right: 0px;
+}
